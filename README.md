@@ -1,3 +1,8 @@
+
+![image](https://github.com/bozuna92/Creating-resource-group/assets/155588954/fc0a1859-85a8-4101-99f4-04e03c8b2a98)
+
+
+
 # Creating-resource-group
 Creating resource groups in azure: 
 
